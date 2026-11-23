@@ -1,0 +1,4 @@
+invoiceStatus,invoice_count,total_amount
+Paid,1694,5334733.96
+Overdue,1663,5195587.06
+Pending,1643,5341947.78

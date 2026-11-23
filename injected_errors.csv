@@ -1,0 +1,401 @@
+record_id,error_type,column,original_value,modified_value
+3880,missing_client,client,Company E,
+2176,missing_client,client,Company E,
+3278,missing_client,client,Company A,
+2021,missing_client,client,Company C,
+1477,missing_client,client,Company A,
+4041,missing_client,client,Company B,
+2238,missing_client,client,Company A,
+3276,missing_client,client,Company A,
+3837,missing_client,client,Company A,
+2071,missing_client,client,Company D,
+4711,missing_client,client,Company D,
+1436,missing_client,client,Company A,
+852,missing_client,client,Company E,
+3839,missing_client,client,Company A,
+2066,missing_client,client,Company E,
+110,missing_client,client,Company C,
+1395,missing_client,client,Company D,
+4450,missing_client,client,Company E,
+886,missing_client,client,Company A,
+2570,missing_client,client,Company D,
+2397,missing_client,client,Company D,
+1689,missing_client,client,Company E,
+3990,missing_client,client,Company E,
+3091,missing_client,client,Company A,
+3074,missing_client,client,Company A,
+616,missing_client,client,Company D,
+753,missing_client,client,Company D,
+2651,missing_client,client,Company E,
+109,missing_client,client,Company A,
+4804,missing_client,client,Company B,
+4305,missing_client,client,Company E,
+1002,missing_client,client,Company B,
+1834,missing_client,client,Company B,
+4739,missing_client,client,Company C,
+2856,missing_client,client,Company B,
+2279,missing_client,client,Company D,
+1201,missing_client,client,Company E,
+719,missing_client,client,Company E,
+3482,missing_client,client,Company D,
+35,missing_client,client,Company A,
+1825,missing_client,client,Company E,
+2206,missing_client,client,Company E,
+451,missing_client,client,Company A,
+427,missing_client,client,Company E,
+2829,missing_client,client,Company E,
+4956,missing_client,client,Company B,
+1268,missing_client,client,Company A,
+147,missing_client,client,Company E,
+3214,missing_client,client,Company C,
+1338,missing_client,client,Company E,
+4410,missing_client,client,Company B,
+27,missing_client,client,Company B,
+1126,missing_client,client,Company B,
+3950,missing_client,client,Company A,
+4977,missing_client,client,Company A,
+4632,missing_client,client,Company D,
+3629,missing_client,client,Company B,
+1570,missing_client,client,Company B,
+3292,missing_client,client,Company D,
+4954,missing_client,client,Company B,
+2318,missing_client,client,Company C,
+223,missing_client,client,Company C,
+4708,missing_client,client,Company C,
+1669,missing_client,client,Company B,
+3901,missing_client,client,Company A,
+3208,missing_client,client,Company B,
+2193,missing_client,client,Company A,
+4884,missing_client,client,Company B,
+2525,missing_client,client,Company D,
+338,missing_client,client,Company E,
+689,missing_client,client,Company E,
+1579,missing_client,client,Company A,
+224,missing_client,client,Company C,
+429,missing_client,client,Company E,
+4905,missing_client,client,Company C,
+3184,missing_client,client,Company C,
+3732,missing_client,client,Company D,
+1521,missing_client,client,Company A,
+4140,missing_client,client,Company A,
+729,missing_client,client,Company C,
+1949,missing_client,client,Company A,
+2683,missing_client,client,Company E,
+4660,missing_client,client,Company A,
+3776,missing_client,client,Company B,
+3396,missing_client,client,Company C,
+4066,missing_client,client,Company D,
+679,missing_client,client,Company D,
+2797,missing_client,client,Company C,
+2091,missing_client,client,Company E,
+112,missing_client,client,Company E,
+3253,missing_client,client,Company A,
+3209,missing_client,client,Company C,
+4217,missing_client,client,Company A,
+411,missing_client,client,Company A,
+3667,missing_client,client,Company E,
+4364,missing_client,client,Company C,
+3903,missing_client,client,Company E,
+3597,missing_client,client,Company E,
+3473,missing_client,client,Company D,
+1694,missing_client,client,Company B,
+3704,text_format,client,Company C,  COMPANY C  
+160,text_format,client,Company E,  COMPANY E  
+1830,text_format,client,Company E,  COMPANY E  
+1623,text_format,client,Company E,  COMPANY E  
+1644,text_format,client,Company E,  COMPANY E  
+3290,text_format,client,Company E,  COMPANY E  
+940,text_format,client,Company E,  COMPANY E  
+4902,text_format,client,Company C,  COMPANY C  
+4196,text_format,client,Company A,  COMPANY A  
+4673,text_format,client,Company B,  COMPANY B  
+541,text_format,client,Company C,  COMPANY C  
+977,text_format,client,Company E,  COMPANY E  
+2668,text_format,client,Company A,  COMPANY A  
+4723,text_format,client,Company A,  COMPANY A  
+3782,text_format,client,Company B,  COMPANY B  
+2081,text_format,client,Company C,  COMPANY C  
+2619,text_format,client,Company B,  COMPANY B  
+3549,text_format,client,Company C,  COMPANY C  
+2370,text_format,client,Company D,  COMPANY D  
+430,text_format,client,Company E,  COMPANY E  
+2198,text_format,client,Company B,  COMPANY B  
+585,text_format,client,Company D,  COMPANY D  
+830,text_format,client,Company C,  COMPANY C  
+1347,text_format,client,Company C,  COMPANY C  
+1312,text_format,client,Company C,  COMPANY C  
+2736,text_format,client,Company B,  COMPANY B  
+3395,text_format,client,Company C,  COMPANY C  
+1440,text_format,client,Company C,  COMPANY C  
+3576,text_format,client,Company C,  COMPANY C  
+4618,text_format,client,Company E,  COMPANY E  
+592,text_format,client,Company A,  COMPANY A  
+3157,text_format,client,Company D,  COMPANY D  
+2384,text_format,client,Company E,  COMPANY E  
+765,text_format,client,Company C,  COMPANY C  
+1819,text_format,client,Company C,  COMPANY C  
+4743,text_format,client,Company D,  COMPANY D  
+3808,text_format,client,Company B,  COMPANY B  
+1995,text_format,client,Company E,  COMPANY E  
+3786,text_format,client,Company D,  COMPANY D  
+3615,text_format,client,Company C,  COMPANY C  
+752,text_format,client,Company B,  COMPANY B  
+3303,text_format,client,Company A,  COMPANY A  
+2042,text_format,client,Company E,  COMPANY E  
+1306,text_format,client,Company E,  COMPANY E  
+1062,text_format,client,Company B,  COMPANY B  
+4402,text_format,client,Company A,  COMPANY A  
+4860,text_format,client,Company B,  COMPANY B  
+1257,text_format,client,Company C,  COMPANY C  
+3207,text_format,client,Company A,  COMPANY A  
+3426,text_format,client,Company A,  COMPANY A  
+421,text_format,client,Company D,  COMPANY D  
+1445,text_format,client,Company B,  COMPANY B  
+2550,text_format,client,Company D,  COMPANY D  
+3717,text_format,client,Company E,  COMPANY E  
+4162,text_format,client,Company E,  COMPANY E  
+1892,text_format,client,Company D,  COMPANY D  
+2225,text_format,client,Company A,  COMPANY A  
+2376,text_format,client,Company A,  COMPANY A  
+4051,text_format,client,Company E,  COMPANY E  
+3131,text_format,client,Company D,  COMPANY D  
+1166,text_format,client,Company B,  COMPANY B  
+3037,text_format,client,Company A,  COMPANY A  
+854,text_format,client,Company D,  COMPANY D  
+1284,text_format,client,Company B,  COMPANY B  
+49,text_format,client,Company C,  COMPANY C  
+1459,text_format,client,Company C,  COMPANY C  
+3683,text_format,client,Company C,  COMPANY C  
+796,text_format,client,Company D,  COMPANY D  
+2150,text_format,client,Company B,  COMPANY B  
+2663,text_format,client,Company A,  COMPANY A  
+1735,text_format,client,Company B,  COMPANY B  
+456,text_format,client,Company C,  COMPANY C  
+4513,text_format,client,Company E,  COMPANY E  
+2720,text_format,client,Company E,  COMPANY E  
+4919,text_format,client,Company D,  COMPANY D  
+3674,text_format,client,Company D,  COMPANY D  
+1199,text_format,client,Company E,  COMPANY E  
+4962,text_format,client,Company C,  COMPANY C  
+4583,text_format,client,Company C,  COMPANY C  
+3672,text_format,client,Company E,  COMPANY E  
+2979,text_format,client,Company B,  COMPANY B  
+382,text_format,client,Company D,  COMPANY D  
+4992,text_format,client,Company B,  COMPANY B  
+576,text_format,client,Company A,  COMPANY A  
+3362,text_format,client,Company A,  COMPANY A  
+982,text_format,client,Company C,  COMPANY C  
+4667,text_format,client,Company B,  COMPANY B  
+531,text_format,client,Company C,  COMPANY C  
+534,text_format,client,Company B,  COMPANY B  
+1135,text_format,client,Company A,  COMPANY A  
+1937,text_format,client,Company D,  COMPANY D  
+1483,text_format,client,Company A,  COMPANY A  
+657,text_format,client,Company B,  COMPANY B  
+1710,text_format,client,Company B,  COMPANY B  
+1382,text_format,client,Company D,  COMPANY D  
+2878,text_format,client,Company E,  COMPANY E  
+1862,text_format,client,Company C,  COMPANY C  
+3242,text_format,client,Company B,  COMPANY B  
+3149,text_format,client,Company B,  COMPANY B  
+3047,text_format,client,Company B,  COMPANY B  
+3003,date_format,issuedDate,2022-07-31,31/07/2022
+375,date_format,issuedDate,2023-02-17,17/02/2023
+2577,date_format,issuedDate,2023-05-19,19/05/2023
+1159,date_format,issuedDate,2022-07-20,20/07/2022
+1992,date_format,issuedDate,2022-09-23,23/09/2022
+4227,date_format,issuedDate,2022-09-17,17/09/2022
+2378,date_format,issuedDate,2022-07-24,24/07/2022
+3620,date_format,issuedDate,2022-10-27,27/10/2022
+1403,date_format,issuedDate,2022-08-19,19/08/2022
+1595,date_format,issuedDate,2023-06-27,27/06/2023
+3450,date_format,issuedDate,2022-07-22,22/07/2022
+771,date_format,issuedDate,2023-06-23,23/06/2023
+1714,date_format,issuedDate,2022-08-29,29/08/2022
+1111,date_format,issuedDate,2022-11-29,29/11/2022
+4822,date_format,issuedDate,2023-05-23,23/05/2023
+2352,date_format,issuedDate,2023-02-06,06/02/2023
+4827,date_format,issuedDate,2023-06-27,27/06/2023
+4286,date_format,issuedDate,2022-11-22,22/11/2022
+2379,date_format,issuedDate,2023-06-13,13/06/2023
+2313,date_format,issuedDate,2022-11-19,19/11/2022
+844,date_format,issuedDate,2022-07-21,21/07/2022
+1530,date_format,issuedDate,2023-01-26,26/01/2023
+176,date_format,issuedDate,2022-12-09,09/12/2022
+4808,date_format,issuedDate,2023-04-19,19/04/2023
+2951,date_format,issuedDate,2023-01-12,12/01/2023
+3562,date_format,issuedDate,2023-04-22,22/04/2023
+4500,date_format,issuedDate,2023-01-06,06/01/2023
+1917,date_format,issuedDate,2022-10-07,07/10/2022
+1354,date_format,issuedDate,2023-03-24,24/03/2023
+2155,date_format,issuedDate,2022-12-03,03/12/2022
+2620,date_format,issuedDate,2023-04-04,04/04/2023
+3591,date_format,issuedDate,2022-12-12,12/12/2022
+3464,date_format,issuedDate,2023-01-28,28/01/2023
+3819,date_format,issuedDate,2023-06-28,28/06/2023
+4095,date_format,issuedDate,2022-09-26,26/09/2022
+3746,date_format,issuedDate,2023-05-21,21/05/2023
+1647,date_format,issuedDate,2023-06-21,21/06/2023
+660,date_format,issuedDate,2023-04-28,28/04/2023
+2428,date_format,issuedDate,2023-01-30,30/01/2023
+1783,date_format,issuedDate,2023-03-16,16/03/2023
+2016,date_format,issuedDate,2023-03-03,03/03/2023
+4478,date_format,issuedDate,2023-04-10,10/04/2023
+4803,date_format,issuedDate,2023-04-05,05/04/2023
+2395,date_format,issuedDate,2023-04-12,12/04/2023
+2226,date_format,issuedDate,2023-06-10,10/06/2023
+1438,date_format,issuedDate,2023-03-16,16/03/2023
+1307,date_format,issuedDate,2022-10-27,27/10/2022
+1278,date_format,issuedDate,2022-08-30,30/08/2022
+2993,date_format,issuedDate,2022-08-06,06/08/2022
+1759,date_format,issuedDate,2023-01-03,03/01/2023
+2994,date_format,issuedDate,2022-07-24,24/07/2022
+2675,date_format,issuedDate,2023-06-20,20/06/2023
+277,date_format,issuedDate,2023-04-26,26/04/2023
+3322,date_format,issuedDate,2023-06-13,13/06/2023
+3512,date_format,issuedDate,2022-12-07,07/12/2022
+3798,date_format,issuedDate,2022-12-11,11/12/2022
+2697,date_format,issuedDate,2023-04-27,27/04/2023
+2547,date_format,issuedDate,2022-12-14,14/12/2022
+3312,date_format,issuedDate,2023-04-03,03/04/2023
+2372,date_format,issuedDate,2022-08-23,23/08/2022
+895,date_format,issuedDate,2022-12-22,22/12/2022
+185,date_format,issuedDate,2023-04-16,16/04/2023
+2156,date_format,issuedDate,2023-02-16,16/02/2023
+2076,date_format,issuedDate,2023-07-06,06/07/2023
+317,date_format,issuedDate,2022-08-17,17/08/2022
+1396,date_format,issuedDate,2023-01-25,25/01/2023
+1545,date_format,issuedDate,2023-03-12,12/03/2023
+3520,date_format,issuedDate,2022-07-28,28/07/2022
+316,date_format,issuedDate,2023-05-12,12/05/2023
+3164,date_format,issuedDate,2022-12-12,12/12/2022
+202,date_format,issuedDate,2022-09-09,09/09/2022
+3816,date_format,issuedDate,2023-02-13,13/02/2023
+2931,date_format,issuedDate,2022-07-18,18/07/2022
+1308,date_format,issuedDate,2022-08-17,17/08/2022
+3282,date_format,issuedDate,2023-01-31,31/01/2023
+1465,date_format,issuedDate,2022-10-29,29/10/2022
+4829,date_format,issuedDate,2023-03-31,31/03/2023
+2173,date_format,issuedDate,2023-03-17,17/03/2023
+767,date_format,issuedDate,2022-10-13,13/10/2022
+3714,date_format,issuedDate,2023-04-10,10/04/2023
+797,date_format,issuedDate,2023-03-16,16/03/2023
+3764,date_format,issuedDate,2022-08-08,08/08/2022
+3879,date_format,issuedDate,2022-12-09,09/12/2022
+871,date_format,issuedDate,2022-12-03,03/12/2022
+2087,date_format,issuedDate,2023-04-15,15/04/2023
+2271,date_format,issuedDate,2023-05-16,16/05/2023
+2383,date_format,issuedDate,2023-05-17,17/05/2023
+459,date_format,issuedDate,2022-08-14,14/08/2022
+4816,date_format,issuedDate,2023-06-05,05/06/2023
+2652,date_format,issuedDate,2023-04-19,19/04/2023
+357,date_format,issuedDate,2023-06-01,01/06/2023
+2642,date_format,issuedDate,2023-01-15,15/01/2023
+2164,date_format,issuedDate,2022-10-05,05/10/2022
+471,date_format,issuedDate,2022-09-22,22/09/2022
+2648,date_format,issuedDate,2023-01-11,11/01/2023
+2047,date_format,issuedDate,2023-06-01,01/06/2023
+503,date_format,issuedDate,2023-03-01,01/03/2023
+787,date_format,issuedDate,2022-08-31,31/08/2022
+4602,date_format,issuedDate,2023-04-26,26/04/2023
+4116,date_format,issuedDate,2022-08-05,05/08/2022
+2718,amount_error,balance,563.05,613.05
+404,amount_error,balance,4292.23,4342.23
+4668,amount_error,balance,397.15,447.15
+3137,amount_error,balance,415.0,465.0
+2672,amount_error,balance,239.1,289.1
+3601,amount_error,balance,2056.52,2106.52
+2136,amount_error,balance,1612.97,1662.97
+95,amount_error,balance,1433.11,1483.11
+2983,amount_error,balance,768.74,818.74
+3718,amount_error,balance,8323.85,8373.85
+1144,amount_error,balance,7664.7,7714.7
+1494,amount_error,balance,1050.06,1100.06
+1532,amount_error,balance,260.56,310.56
+3750,amount_error,balance,2050.32,2100.32
+608,amount_error,balance,4722.09,4772.09
+165,amount_error,balance,3611.34,3661.34
+914,amount_error,balance,1695.97,1745.97
+3135,amount_error,balance,1603.61,1653.61
+697,amount_error,balance,6133.89,6183.89
+3951,amount_error,balance,7404.78,7454.78
+296,amount_error,balance,8031.77,8081.77
+4814,amount_error,balance,1580.82,1630.82
+3727,amount_error,balance,5969.35,6019.35
+2039,amount_error,balance,1849.49,1899.49
+702,amount_error,balance,3491.91,3541.91
+1267,amount_error,balance,2728.6,2778.6
+4362,amount_error,balance,4232.37,4282.37
+815,amount_error,balance,490.58,540.5799999999999
+4815,amount_error,balance,6220.66,6270.66
+3148,amount_error,balance,4292.38,4342.38
+1550,amount_error,balance,4031.3,4081.3
+4300,amount_error,balance,2954.47,3004.47
+1627,amount_error,balance,4880.65,4930.65
+204,amount_error,balance,8532.03,8582.03
+1859,amount_error,balance,1243.62,1293.62
+3013,amount_error,balance,5380.0,5430.0
+1018,amount_error,balance,795.86,845.86
+1602,amount_error,balance,665.95,715.95
+4421,amount_error,balance,1795.67,1845.67
+410,amount_error,balance,4867.02,4917.02
+3980,amount_error,balance,617.66,667.66
+2795,amount_error,balance,4799.14,4849.14
+465,amount_error,balance,1243.37,1293.37
+3535,amount_error,balance,852.13,902.13
+3021,amount_error,balance,517.78,567.78
+4436,amount_error,balance,2766.31,2816.31
+929,amount_error,balance,6858.92,6908.92
+3449,amount_error,balance,3830.39,3880.39
+3026,amount_error,balance,1044.46,1094.46
+1109,amount_error,balance,2969.59,3019.59
+3915,amount_error,balance,6269.02,6319.02
+3332,amount_error,balance,4081.05,4131.05
+1567,amount_error,balance,3006.96,3056.96
+3679,amount_error,balance,4105.36,4155.36
+3480,amount_error,balance,2476.9,2526.9
+4485,amount_error,balance,479.74,529.74
+3328,amount_error,balance,995.2,1045.2
+4152,amount_error,balance,5530.32,5580.32
+4146,amount_error,balance,1416.3,1466.3
+2640,amount_error,balance,2555.45,2605.45
+1939,amount_error,balance,2584.99,2634.99
+2054,amount_error,balance,5029.16,5079.16
+4756,amount_error,balance,2106.93,2156.93
+4807,amount_error,balance,290.65,340.65
+4510,amount_error,balance,3154.38,3204.38
+2404,amount_error,balance,5838.89,5888.89
+3152,amount_error,balance,3692.04,3742.04
+4395,amount_error,balance,192.5,242.5
+739,amount_error,balance,4363.64,4413.64
+1053,amount_error,balance,3490.39,3540.39
+2828,amount_error,balance,3263.83,3313.83
+435,amount_error,balance,2323.39,2373.39
+106,amount_error,balance,2877.16,2927.16
+4511,amount_error,balance,2121.38,2171.38
+3210,amount_error,balance,6711.38,6761.38
+601,amount_error,balance,213.36,263.36
+4351,amount_error,balance,3358.12,3408.12
+2316,amount_error,balance,667.05,717.05
+4864,amount_error,balance,1333.57,1383.57
+1480,amount_error,balance,1443.68,1493.68
+2911,amount_error,balance,6913.25,6963.25
+4714,amount_error,balance,4748.8,4798.8
+2072,amount_error,balance,476.76,526.76
+2041,amount_error,balance,1284.0,1334.0
+3858,amount_error,balance,3920.76,3970.76
+396,amount_error,balance,3872.1,3922.1
+906,amount_error,balance,3950.1,4000.1
+2221,amount_error,balance,4494.05,4544.05
+3904,amount_error,balance,2548.36,2598.36
+1730,amount_error,balance,2835.06,2885.06
+3955,amount_error,balance,3254.97,3304.97
+2333,amount_error,balance,10206.39,10256.39
+2546,amount_error,balance,2043.24,2093.24
+507,amount_error,balance,4880.94,4930.94
+4370,amount_error,balance,5245.3,5295.3
+567,amount_error,balance,3614.69,3664.69
+613,amount_error,balance,3831.38,3881.38
+3617,amount_error,balance,6726.19,6776.19
+3271,amount_error,balance,4413.5,4463.5
+1552,amount_error,balance,1325.29,1375.29

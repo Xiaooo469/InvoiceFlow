@@ -1,0 +1,201 @@
+record_id,id_invoice,issuedDate,country,service,total,discount,tax,invoiceStatus,balance,dueDate,client,amount_mismatch,missing_client,invalid_date,invalid_amount,validation_status
+27,5,2023-04-18,Panama,IoT Solution,4639.3,226.61,120.76,Overdue,4533.45,2023-05-06,,False,True,False,False,Review Required
+35,96,2022-08-06,Uruguay,AI Solution,8986.49,1265.56,614.06,Overdue,8334.99,2022-08-21,,False,True,False,False,Review Required
+95,61,2023-01-05,Anguilla,E-commerce Development,1622.13,251.57,62.55,Paid,1483.11,2023-01-25,COMPANY E,True,False,False,False,Review Required
+106,40,2022-09-07,Mozambique,AI Solution,3089.14,320.05,108.07,Overdue,2927.16,2022-10-07,COMPANY D,True,False,False,False,Review Required
+109,46,2023-06-22,Antigua and Barbuda,E-commerce Development,2630.75,94.48,138.75,Paid,2675.02,2023-07-15,,False,True,False,False,Review Required
+110,2,2023-03-14,Angola,IoT Solution,7728.7,353.36,572.12,Paid,7947.46,2023-03-23,,False,True,False,False,Review Required
+112,100,2022-10-10,Trinidad and Tobago,IoT Solution,3282.48,109.88,198.7,Pending,3371.3,2022-10-23,,False,True,False,False,Review Required
+147,22,2023-03-12,Swaziland,E-commerce Development,4720.81,606.86,164.99,Paid,4278.94,2023-04-10,,False,True,False,False,Review Required
+165,93,2023-05-29,Palau,Mobile App Development,4238.92,679.95,52.37,Pending,3661.34,2023-06-26,COMPANY B,True,False,False,False,Review Required
+204,51,2023-05-21,Australia,AI Solution,9722.88,1821.66,630.81,Paid,8582.03,2023-05-30,COMPANY B,True,False,False,False,Review Required
+223,56,2022-12-27,Gibraltar,Web Development,2483.93,396.11,219.75,Pending,2307.57,2023-01-18,,False,True,False,False,Review Required
+224,44,2022-07-27,Azerbaijan,UI/UX Design,539.59,35.15,20.05,Paid,524.49,2022-08-21,,False,True,False,False,Review Required
+296,90,2023-01-22,Indonesia,IoT Solution,7831.93,101.3,301.14,Paid,8081.77,2023-02-21,COMPANY B,True,False,False,False,Review Required
+338,98,2023-06-28,Togo,Mobile App Development,2959.14,255.73,135.62,Overdue,2839.03,2023-07-12,,False,True,False,False,Review Required
+396,95,2023-01-11,Comoros,E-commerce Development,4156.8,320.06,35.36,Overdue,3922.1,2023-02-10,COMPANY E,True,False,False,False,Review Required
+404,3,2022-12-06,Argentina,E-commerce Development,4190.79,7.21,108.65,Paid,4342.23,2023-01-01,COMPANY D,True,False,False,False,Review Required
+410,3,2022-08-21,Turkey,IoT Solution,5144.61,704.25,426.66,Paid,4917.02,2022-09-12,COMPANY A,True,False,False,False,Review Required
+411,47,2023-06-16,Grenada,UI/UX Design,694.96,4.35,18.34,Overdue,708.95,2023-06-24,,False,True,False,False,Review Required
+427,3,2022-08-17,Antarctica (the territory South of 60 deg S),Mobile App Development,3074.62,483.35,209.21,Overdue,2800.48,2022-08-27,,False,True,False,False,Review Required
+429,74,2023-03-04,Russian Federation,E-commerce Development,3084.36,375.04,289.09,Pending,2998.41,2023-03-22,,False,True,False,False,Review Required
+435,77,2022-12-24,Kyrgyz Republic,Web Development,2292.98,117.28,147.69,Pending,2373.39,2023-01-03,COMPANY B,True,False,False,False,Review Required
+451,87,2023-02-20,Bahamas,AI Solution,3313.94,176.77,178.16,Overdue,3315.33,2023-03-14,,False,True,False,False,Review Required
+465,11,2022-07-23,Honduras,E-commerce Development,1343.21,208.33,108.49,Paid,1293.37,2022-08-14,COMPANY A,True,False,False,False,Review Required
+507,62,2023-05-28,Iraq,Mobile App Development,4670.7,179.02,389.26,Overdue,4930.94,2023-06-22,COMPANY A,True,False,False,False,Review Required
+567,61,2022-10-13,Anguilla,Mobile App Development,4073.02,807.32,348.99,Pending,3664.69,2022-11-02,COMPANY B,True,False,False,False,Review Required
+601,53,2023-02-27,Palau,UI/UX Design,227.75,22.56,8.17,Overdue,263.36,2023-03-29,COMPANY A,True,False,False,False,Review Required
+608,27,2022-08-10,South Africa,IoT Solution,4702.41,241.5,261.18,Pending,4772.09,2022-08-18,COMPANY E,True,False,False,False,Review Required
+613,11,2022-10-27,Poland,Mobile App Development,3847.74,50.22,33.86,Paid,3881.38,2022-11-09,COMPANY E,True,False,False,False,Review Required
+616,96,2022-09-01,Bhutan,UI/UX Design,608.17,109.69,20.16,Pending,518.64,2022-09-15,,False,True,False,False,Review Required
+679,35,2023-01-21,Oman,IoT Solution,3673.53,612.78,246.79,Paid,3307.54,2023-02-07,,False,True,False,False,Review Required
+689,73,2022-09-29,Myanmar,Mobile App Development,4915.49,388.52,337.75,Pending,4864.72,2022-10-09,,False,True,False,False,Review Required
+697,34,2023-03-17,Austria,AI Solution,6465.64,701.64,369.89,Pending,6183.89,2023-04-08,COMPANY C,True,False,False,False,Review Required
+702,75,2022-12-27,Belgium,AI Solution,3386.36,224.57,330.12,Pending,3541.91,2023-01-20,COMPANY D,True,False,False,False,Review Required
+719,3,2022-12-23,Netherlands Antilles,E-commerce Development,3379.86,349.82,42.91,Overdue,3072.95,2023-01-05,,False,True,False,False,Review Required
+729,6,2022-10-23,Tanzania,UI/UX Design,795.66,56.91,64.63,Overdue,803.38,2022-11-15,,False,True,False,False,Review Required
+739,64,2023-01-24,Hong Kong,Mobile App Development,4109.42,96.36,350.58,Paid,4413.64,2023-02-01,COMPANY D,True,False,False,False,Review Required
+753,18,2022-10-12,Croatia,IoT Solution,4350.63,361.93,416.62,Overdue,4405.32,2022-11-04,,False,True,False,False,Review Required
+815,5,2022-11-26,Taiwan,UI/UX Design,489.76,21.96,22.78,Overdue,540.5799999999999,2022-12-26,COMPANY E,True,False,False,False,Review Required
+852,47,2022-11-14,Saint Martin,Web Development,913.78,13.32,30.66,Overdue,931.12,2022-11-26,,False,True,False,False,Review Required
+886,46,2023-07-09,Jersey,Mobile App Development,1693.29,70.01,68.45,Pending,1691.73,2023-08-06,,False,True,False,False,Review Required
+906,62,2022-09-23,Rwanda,E-commerce Development,3842.63,105.95,213.42,Overdue,4000.1,2022-10-07,COMPANY C,True,False,False,False,Review Required
+914,15,2022-10-31,Cook Islands,Web Development,2056.08,397.44,37.33,Overdue,1745.97,2022-11-19,COMPANY D,True,False,False,False,Review Required
+929,80,2023-02-18,Paraguay,AI Solution,6704.55,399.33,553.7,Overdue,6908.92,2023-03-04,COMPANY A,True,False,False,False,Review Required
+1002,90,2023-01-19,Suriname,Mobile App Development,4702.36,93.56,318.65,Pending,4927.45,2023-02-12,,False,True,False,False,Review Required
+1018,24,2023-04-17,Korea,UI/UX Design,793.94,70.72,72.64,Overdue,845.86,2023-04-24,COMPANY E,True,False,False,False,Review Required
+1053,47,2023-05-24,San Marino,AI Solution,3482.58,28.77,36.58,Pending,3540.39,2023-06-10,COMPANY C,True,False,False,False,Review Required
+1109,48,2023-03-01,Thailand,AI Solution,3257.17,435.13,147.55,Overdue,3019.59,2023-03-21,COMPANY D,True,False,False,False,Review Required
+1126,21,2023-01-13,Colombia,Web Development,2719.77,254.79,51.15,Paid,2516.13,2023-02-01,,False,True,False,False,Review Required
+1144,52,2022-11-16,North Macedonia,AI Solution,8955.18,1603.5,313.02,Paid,7714.7,2022-12-03,COMPANY C,True,False,False,False,Review Required
+1201,58,2023-05-23,Algeria,Mobile App Development,3034.42,113.03,23.83,Overdue,2945.22,2023-06-17,,False,True,False,False,Review Required
+1267,76,2022-11-24,Zambia,E-commerce Development,3147.77,597.01,177.84,Paid,2778.6,2022-12-20,COMPANY A,True,False,False,False,Review Required
+1268,6,2022-10-08,Oman,Web Development,770.55,107.84,13.57,Overdue,676.28,2022-10-31,,False,True,False,False,Review Required
+1338,4,2023-02-25,Morocco,UI/UX Design,400.72,6.12,10.84,Paid,405.44,2023-03-23,,False,True,False,False,Review Required
+1395,82,2022-07-29,Rwanda,Web Development,1527.94,160.58,56.31,Overdue,1423.67,2022-08-28,,False,True,False,False,Review Required
+1436,16,2022-10-19,Mauritania,Web Development,2126.39,27.03,16.56,Pending,2115.92,2022-11-02,,False,True,False,False,Review Required
+1477,58,2023-02-17,Latvia,Web Development,2049.25,93.0,64.91,Overdue,2021.16,2023-03-01,,False,True,False,False,Review Required
+1480,99,2023-01-31,Mauritius,Web Development,1642.4,262.36,63.64,Pending,1493.68,2023-02-27,COMPANY A,True,False,False,False,Review Required
+1494,46,2023-03-15,Ethiopia,Web Development,1023.74,7.78,34.1,Paid,1100.06,2023-03-23,COMPANY E,True,False,False,False,Review Required
+1521,27,2023-06-15,Western Sahara,IoT Solution,7555.51,444.77,655.82,Pending,7766.56,2023-07-10,,False,True,False,False,Review Required
+1532,18,2023-01-01,Turkmenistan,UI/UX Design,287.8,29.26,2.02,Pending,310.56,2023-01-09,COMPANY D,True,False,False,False,Review Required
+1550,94,2023-04-27,Equatorial Guinea,E-commerce Development,3813.73,59.51,277.08,Pending,4081.3,2023-05-27,COMPANY B,True,False,False,False,Review Required
+1552,14,2023-05-21,Jordan,Web Development,1310.69,84.19,98.79,Pending,1375.29,2023-05-31,COMPANY E,True,False,False,False,Review Required
+1567,56,2022-10-12,Botswana,E-commerce Development,2877.42,112.62,242.16,Paid,3056.96,2022-11-10,COMPANY D,True,False,False,False,Review Required
+1570,27,2023-05-26,Pakistan,AI Solution,4147.88,383.83,212.13,Paid,3976.18,2023-06-25,,False,True,False,False,Review Required
+1579,40,2023-07-05,Angola,Web Development,2056.36,296.56,39.27,Overdue,1799.07,2023-07-12,,False,True,False,False,Review Required
+1602,72,2022-12-01,Burkina Faso,Web Development,691.57,50.45,24.83,Overdue,715.95,2022-12-28,COMPANY B,True,False,False,False,Review Required
+1627,16,2023-03-05,Malawi,AI Solution,5779.76,925.4,26.29,Paid,4930.65,2023-03-28,COMPANY A,True,False,False,False,Review Required
+1669,77,2022-07-22,Mongolia,IoT Solution,2434.77,117.79,144.64,Overdue,2461.62,2022-08-13,,False,True,False,False,Review Required
+1689,51,2023-01-07,Solomon Islands,Web Development,536.95,24.97,34.21,Pending,546.19,2023-02-04,,False,True,False,False,Review Required
+1694,90,2022-12-23,Moldova,E-commerce Development,2359.39,279.9,158.2,Overdue,2237.69,2023-01-20,,False,True,False,False,Review Required
+1730,2,2023-07-04,Timor-Leste,Mobile App Development,3460.61,627.87,2.32,Pending,2885.06,2023-07-11,COMPANY D,True,False,False,False,Review Required
+1825,35,2022-08-14,Nauru,IoT Solution,7164.64,798.57,495.26,Overdue,6861.33,2022-08-22,,False,True,False,False,Review Required
+1834,47,2023-02-21,Equatorial Guinea,Mobile App Development,1334.69,263.02,44.03,Paid,1115.7,2023-03-07,,False,True,False,False,Review Required
+1859,12,2023-03-22,Belize,E-commerce Development,1415.09,234.28,62.81,Overdue,1293.62,2023-04-08,COMPANY E,True,False,False,False,Review Required
+1939,24,2023-04-25,Japan,Web Development,2407.42,56.81,234.38,Overdue,2634.99,2023-05-23,COMPANY E,True,False,False,False,Review Required
+1949,86,2023-06-03,Mozambique,UI/UX Design,365.13,60.72,20.86,Pending,325.27,2023-06-24,,False,True,False,False,Review Required
+2021,74,2022-08-27,Turks and Caicos Islands,IoT Solution,4801.35,149.76,235.41,Pending,4887.0,2022-09-25,,False,True,False,False,Review Required
+2039,69,2023-05-12,Palestinian Territory,Web Development,2108.59,404.06,144.96,Paid,1899.49,2023-06-03,COMPANY B,True,False,False,False,Review Required
+2041,13,2022-08-30,Micronesia,Mobile App Development,1252.23,6.83,38.6,Overdue,1334.0,2022-09-07,COMPANY B,True,False,False,False,Review Required
+2054,23,2023-05-04,Belarus,AI Solution,4824.1,14.3,219.36,Pending,5079.16,2023-05-21,COMPANY D,True,False,False,False,Review Required
+2066,3,2023-07-07,Cote d'Ivoire,AI Solution,6212.45,1104.89,259.52,Pending,5367.08,2023-07-20,,False,True,False,False,Review Required
+2071,24,2023-06-16,Trinidad and Tobago,UI/UX Design,459.66,28.2,22.39,Overdue,453.85,2023-06-26,,False,True,False,False,Review Required
+2072,73,2023-04-15,Nepal,UI/UX Design,512.09,67.99,32.66,Paid,526.76,2023-05-09,COMPANY E,True,False,False,False,Review Required
+2091,4,2023-06-27,Egypt,Mobile App Development,3294.74,504.82,6.19,Overdue,2796.11,2023-07-18,,False,True,False,False,Review Required
+2136,77,2022-11-27,Saint Pierre and Miquelon,Mobile App Development,1796.09,346.69,163.57,Pending,1662.97,2022-12-10,COMPANY D,True,False,False,False,Review Required
+2176,73,2022-10-20,Venezuela,IoT Solution,6602.29,226.31,58.3,Overdue,6434.28,2022-11-11,,False,True,False,False,Review Required
+2193,49,2022-12-11,Montserrat,AI Solution,5398.11,16.68,298.23,Pending,5679.66,2023-01-06,,False,True,False,False,Review Required
+2206,53,2022-09-21,Saint Barthelemy,IoT Solution,6527.63,899.22,551.33,Pending,6179.74,2022-10-16,,False,True,False,False,Review Required
+2221,48,2022-11-11,Saudi Arabia,Mobile App Development,4514.7,236.63,215.98,Paid,4544.05,2022-12-08,COMPANY C,True,False,False,False,Review Required
+2238,63,2022-09-29,Belgium,Mobile App Development,3991.84,542.29,123.43,Overdue,3572.98,2022-10-28,,False,True,False,False,Review Required
+2279,86,2022-09-29,Congo,IoT Solution,2901.31,309.08,245.42,Overdue,2837.65,2022-10-11,,False,True,False,False,Review Required
+2316,6,2023-01-13,Tonga,UI/UX Design,665.02,35.61,37.64,Pending,717.05,2023-02-08,COMPANY C,True,False,False,False,Review Required
+2318,40,2022-12-14,Bosnia and Herzegovina,Web Development,2869.98,432.5,237.59,Paid,2675.07,2022-12-30,,False,True,False,False,Review Required
+2333,21,2023-06-06,Singapore,AI Solution,9834.23,10.94,383.1,Overdue,10256.39,2023-06-29,COMPANY C,True,False,False,False,Review Required
+2397,18,2022-11-20,Libyan Arab Jamahiriya,Mobile App Development,4877.08,668.15,98.54,Pending,4307.47,2022-12-13,,False,True,False,False,Review Required
+2404,37,2023-02-19,Colombia,AI Solution,6252.27,628.08,214.7,Pending,5888.89,2023-03-03,COMPANY E,True,False,False,False,Review Required
+2525,98,2022-10-02,Martinique,AI Solution,5600.87,380.46,236.48,Pending,5456.89,2022-10-14,,False,True,False,False,Review Required
+2546,18,2023-04-19,Guyana,Mobile App Development,2278.36,420.33,185.21,Paid,2093.24,2023-05-09,COMPANY B,True,False,False,False,Review Required
+2570,33,2023-02-23,Palau,E-commerce Development,3948.28,114.67,381.58,Paid,4215.19,2023-03-25,,False,True,False,False,Review Required
+2640,72,2023-04-14,Morocco,IoT Solution,2785.06,282.81,53.2,Paid,2605.45,2023-05-11,COMPANY A,True,False,False,False,Review Required
+2651,4,2022-11-21,Cyprus,Mobile App Development,1191.53,154.79,72.84,Overdue,1109.58,2022-12-19,,False,True,False,False,Review Required
+2672,55,2023-06-15,Moldova,UI/UX Design,223.51,4.87,20.46,Pending,289.1,2023-06-26,COMPANY D,True,False,False,False,Review Required
+2683,46,2023-06-19,Greece,IoT Solution,5937.34,539.71,499.29,Paid,5896.92,2023-07-03,,False,True,False,False,Review Required
+2718,8,2022-12-16,Micronesia,UI/UX Design,670.5,109.04,1.59,Overdue,613.05,2023-01-08,COMPANY D,True,False,False,False,Review Required
+2795,69,2022-09-09,France,E-commerce Development,4796.44,147.46,150.16,Paid,4849.14,2022-09-19,COMPANY A,True,False,False,False,Review Required
+2797,59,2022-12-10,Trinidad and Tobago,Mobile App Development,2978.45,505.95,90.61,Overdue,2563.11,2022-12-28,,False,True,False,False,Review Required
+2828,54,2022-07-21,Korea,Mobile App Development,3365.79,159.37,57.41,Overdue,3313.83,2022-08-18,COMPANY A,True,False,False,False,Review Required
+2829,23,2022-09-26,Qatar,IoT Solution,4758.51,908.85,214.74,Overdue,4064.4,2022-10-15,,False,True,False,False,Review Required
+2856,81,2022-07-31,Tanzania,IoT Solution,5712.36,504.45,523.69,Overdue,5731.6,2022-08-15,,False,True,False,False,Review Required
+2911,72,2022-11-13,Liechtenstein,IoT Solution,7045.3,575.34,443.29,Paid,6963.25,2022-12-01,COMPANY A,True,False,False,False,Review Required
+2983,34,2022-10-12,Jordan,UI/UX Design,738.26,26.87,57.35,Paid,818.74,2022-11-08,COMPANY E,True,False,False,False,Review Required
+3013,92,2023-01-03,Macao,IoT Solution,5446.9,495.73,428.83,Overdue,5430.0,2023-01-30,COMPANY D,True,False,False,False,Review Required
+3021,15,2022-07-24,Afghanistan,Web Development,588.63,77.36,6.51,Paid,567.78,2022-08-12,COMPANY C,True,False,False,False,Review Required
+3026,57,2023-05-13,Mauritius,Web Development,1050.99,46.6,40.07,Paid,1094.46,2023-06-11,COMPANY B,True,False,False,False,Review Required
+3074,83,2022-08-19,Benin,AI Solution,5548.79,1020.61,321.74,Pending,4849.92,2022-09-15,,False,True,False,False,Review Required
+3091,100,2023-02-27,Dominica,Mobile App Development,4465.69,795.01,213.76,Pending,3884.44,2023-03-10,,False,True,False,False,Review Required
+3135,76,2022-12-30,Cape Verde,Web Development,1766.49,215.57,52.69,Pending,1653.61,2023-01-22,COMPANY E,True,False,False,False,Review Required
+3137,37,2023-01-07,New Caledonia,UI/UX Design,466.3,90.62,39.32,Paid,465.0,2023-02-04,COMPANY C,True,False,False,False,Review Required
+3148,78,2023-01-09,Mozambique,Mobile App Development,4251.94,46.83,87.27,Paid,4342.38,2023-02-01,COMPANY E,True,False,False,False,Review Required
+3152,58,2023-05-26,French Southern Territories,IoT Solution,3711.96,82.88,62.96,Pending,3742.04,2023-06-07,COMPANY C,True,False,False,False,Review Required
+3184,4,2023-02-15,United States Minor Outlying Islands,Web Development,540.04,67.14,35.85,Paid,508.75,2023-02-27,,False,True,False,False,Review Required
+3208,88,2023-03-03,Zambia,IoT Solution,5185.59,109.89,486.38,Overdue,5562.08,2023-03-13,,False,True,False,False,Review Required
+3209,95,2022-11-25,El Salvador,Web Development,1921.2,35.3,120.6,Paid,2006.5,2022-12-08,,False,True,False,False,Review Required
+3210,93,2022-10-14,Eritrea,IoT Solution,6889.35,849.08,671.11,Overdue,6761.38,2022-10-25,COMPANY C,True,False,False,False,Review Required
+3214,33,2023-02-19,Sao Tome and Principe,Mobile App Development,3244.55,320.58,211.37,Overdue,3135.34,2023-03-20,,False,True,False,False,Review Required
+3253,59,2022-10-01,Chad,Mobile App Development,1466.31,127.1,87.51,Overdue,1426.72,2022-10-29,,False,True,False,False,Review Required
+3271,91,2022-12-12,Hong Kong,AI Solution,4892.72,886.77,407.55,Overdue,4463.5,2023-01-01,COMPANY A,True,False,False,False,Review Required
+3276,82,2023-02-15,Ukraine,AI Solution,4101.77,355.85,395.54,Paid,4141.46,2023-03-07,,False,True,False,False,Review Required
+3278,28,2023-02-05,Indonesia,AI Solution,7792.18,1471.55,240.85,Overdue,6561.48,2023-02-22,,False,True,False,False,Review Required
+3292,45,2022-08-12,Saint Martin,UI/UX Design,255.01,10.39,24.44,Paid,269.06,2022-09-06,,False,True,False,False,Review Required
+3328,11,2023-07-10,Bhutan,UI/UX Design,998.12,39.28,36.36,Overdue,1045.2,2023-07-27,COMPANY C,True,False,False,False,Review Required
+3332,65,2022-09-27,Bermuda,IoT Solution,4664.04,608.25,25.26,Pending,4131.05,2022-10-13,COMPANY C,True,False,False,False,Review Required
+3396,75,2023-05-02,Palestinian Territory,AI Solution,4899.12,202.36,5.29,Pending,4702.05,2023-05-15,,False,True,False,False,Review Required
+3449,98,2023-06-08,Somalia,IoT Solution,4387.67,609.03,51.75,Pending,3880.39,2023-06-26,COMPANY E,True,False,False,False,Review Required
+3473,16,2023-03-11,Seychelles,UI/UX Design,903.52,28.62,81.52,Paid,956.42,2023-03-19,,False,True,False,False,Review Required
+3480,7,2023-05-11,Mauritania,Mobile App Development,2436.62,28.47,68.75,Pending,2526.9,2023-06-02,COMPANY D,True,False,False,False,Review Required
+3482,45,2023-03-19,Saint Martin,E-commerce Development,2402.48,160.45,90.85,Paid,2332.88,2023-03-26,,False,True,False,False,Review Required
+3535,66,2023-04-04,Ghana,Web Development,884.64,54.47,21.96,Overdue,902.13,2023-04-14,COMPANY D,True,False,False,False,Review Required
+3597,65,2023-03-21,American Samoa,IoT Solution,3843.31,521.19,233.49,Paid,3555.61,2023-03-31,,False,True,False,False,Review Required
+3601,72,2022-12-14,Yemen,Web Development,2174.62,125.4,7.3,Overdue,2106.52,2022-12-27,COMPANY B,True,False,False,False,Review Required
+3617,88,2023-06-12,Tajikistan,AI Solution,7449.37,848.86,125.68,Pending,6776.19,2023-07-02,COMPANY E,True,False,False,False,Review Required
+3629,50,2023-04-30,New Zealand,Web Development,885.22,154.78,45.47,Overdue,775.91,2023-05-08,,False,True,False,False,Review Required
+3667,82,2023-02-10,Malawi,E-commerce Development,2561.07,468.9,236.35,Overdue,2328.52,2023-02-17,,False,True,False,False,Review Required
+3679,64,2022-10-18,Monaco,Mobile App Development,3894.38,40.05,251.03,Pending,4155.36,2022-10-27,COMPANY A,True,False,False,False,Review Required
+3718,54,2023-05-27,Moldova,IoT Solution,7869.73,140.48,594.6,Paid,8373.85,2023-06-23,COMPANY C,True,False,False,False,Review Required
+3727,51,2023-03-20,Vietnam,IoT Solution,5644.22,216.69,541.82,Paid,6019.35,2023-04-19,COMPANY D,True,False,False,False,Review Required
+3732,66,2022-11-01,Barbados,E-commerce Development,2376.89,207.17,50.71,Overdue,2220.43,2022-11-21,,False,True,False,False,Review Required
+3750,49,2022-12-11,Western Sahara,E-commerce Development,1988.29,9.83,71.86,Paid,2100.32,2023-01-08,COMPANY C,True,False,False,False,Review Required
+3776,21,2022-11-15,Greenland,E-commerce Development,4525.81,479.04,53.51,Overdue,4100.28,2022-11-23,,False,True,False,False,Review Required
+3837,88,2023-04-04,Anguilla,Web Development,2154.01,428.57,20.55,Pending,1745.99,2023-05-04,,False,True,False,False,Review Required
+3839,87,2023-06-09,Jordan,Web Development,1559.4,160.87,24.5,Overdue,1423.03,2023-06-22,,False,True,False,False,Review Required
+3858,76,2023-04-16,Armenia,Mobile App Development,4578.29,739.94,82.41,Paid,3970.76,2023-05-14,COMPANY A,True,False,False,False,Review Required
+3880,98,2023-01-13,Bolivia,AI Solution,4893.32,239.19,90.81,Paid,4744.94,2023-01-23,,False,True,False,False,Review Required
+3901,62,2022-07-29,Mayotte,E-commerce Development,1805.91,24.44,92.15,Paid,1873.62,2022-08-26,,False,True,False,False,Review Required
+3903,43,2022-11-15,Jordan,IoT Solution,6798.86,922.18,181.05,Paid,6057.73,2022-12-14,,False,True,False,False,Review Required
+3904,26,2022-09-18,Puerto Rico,Mobile App Development,2779.52,352.19,121.03,Overdue,2598.36,2022-09-30,COMPANY B,True,False,False,False,Review Required
+3915,94,2023-03-05,Sierra Leone,IoT Solution,6836.33,798.92,231.61,Paid,6319.02,2023-03-19,COMPANY E,True,False,False,False,Review Required
+3950,20,2022-09-13,Liberia,AI Solution,4016.6,254.19,291.24,Paid,4053.65,2022-09-20,,False,True,False,False,Review Required
+3951,39,2022-12-24,Croatia,AI Solution,8432.53,1465.58,437.83,Paid,7454.78,2023-01-12,COMPANY E,True,False,False,False,Review Required
+3955,53,2023-03-29,Ireland,E-commerce Development,3856.35,674.21,72.83,Pending,3304.97,2023-04-16,COMPANY B,True,False,False,False,Review Required
+3980,58,2023-05-11,South Africa,Web Development,740.85,136.44,13.25,Overdue,667.66,2023-05-26,COMPANY B,True,False,False,False,Review Required
+3990,21,2023-03-16,Heard Island and McDonald Islands,Mobile App Development,1335.84,155.06,105.15,Paid,1285.93,2023-04-10,,False,True,False,False,Review Required
+4041,66,2023-02-25,Ukraine,Web Development,1948.44,95.07,145.59,Overdue,1998.96,2023-03-11,,False,True,False,False,Review Required
+4066,15,2023-02-04,Swaziland,Web Development,745.37,118.01,73.19,Paid,700.55,2023-02-16,,False,True,False,False,Review Required
+4140,59,2023-06-30,Botswana,IoT Solution,2009.43,204.0,97.39,Pending,1902.82,2023-07-19,,False,True,False,False,Review Required
+4146,94,2022-10-02,Jamaica,Mobile App Development,1551.79,179.72,44.23,Pending,1466.3,2022-10-30,COMPANY E,True,False,False,False,Review Required
+4152,90,2023-01-09,Bahrain,IoT Solution,5805.36,426.15,151.11,Pending,5580.32,2023-01-17,COMPANY B,True,False,False,False,Review Required
+4217,81,2023-01-01,Norfolk Island,IoT Solution,5176.45,592.98,242.39,Paid,4825.86,2023-01-08,,False,True,False,False,Review Required
+4300,12,2023-06-09,Croatia,E-commerce Development,2855.0,109.72,209.19,Paid,3004.47,2023-07-04,COMPANY C,True,False,False,False,Review Required
+4305,96,2022-08-11,Myanmar,Mobile App Development,3073.18,500.32,185.81,Overdue,2758.67,2022-08-30,,False,True,False,False,Review Required
+4351,70,2022-10-05,Japan,E-commerce Development,3525.87,219.36,51.61,Pending,3408.12,2022-11-02,COMPANY E,True,False,False,False,Review Required
+4362,73,2022-08-19,Antigua and Barbuda,E-commerce Development,4675.82,500.59,57.14,Overdue,4282.37,2022-09-02,COMPANY C,True,False,False,False,Review Required
+4364,96,2023-07-05,Taiwan,Web Development,2032.45,40.99,139.11,Paid,2130.57,2023-07-27,,False,True,False,False,Review Required
+4370,2,2023-01-07,Colombia,IoT Solution,5812.94,928.14,360.5,Overdue,5295.3,2023-02-01,COMPANY B,True,False,False,False,Review Required
+4395,71,2022-12-19,Chad,UI/UX Design,218.96,38.83,12.37,Pending,242.5,2023-01-11,COMPANY C,True,False,False,False,Review Required
+4410,59,2022-09-24,Guinea,AI Solution,9596.29,1815.56,742.28,Paid,8523.01,2022-10-07,,False,True,False,False,Review Required
+4421,63,2022-11-12,Tajikistan,Web Development,1890.75,157.49,62.41,Paid,1845.67,2022-11-27,COMPANY C,True,False,False,False,Review Required
+4436,87,2022-09-23,Puerto Rico,IoT Solution,2852.59,368.01,281.73,Overdue,2816.31,2022-10-12,COMPANY C,True,False,False,False,Review Required
+4450,95,2022-12-25,Mongolia,IoT Solution,6012.6,848.61,33.2,Paid,5197.19,2023-01-06,,False,True,False,False,Review Required
+4485,29,2022-10-08,Comoros,UI/UX Design,518.62,47.3,8.42,Pending,529.74,2022-11-01,COMPANY C,True,False,False,False,Review Required
+4510,78,2022-07-21,Guam,E-commerce Development,3559.53,406.52,1.37,Paid,3204.38,2022-08-07,COMPANY B,True,False,False,False,Review Required
+4511,20,2022-08-14,Bangladesh,IoT Solution,2144.71,189.85,166.52,Overdue,2171.38,2022-08-22,COMPANY D,True,False,False,False,Review Required
+4632,88,2022-11-04,Bulgaria,IoT Solution,5056.56,287.87,286.29,Paid,5054.98,2022-12-01,,False,True,False,False,Review Required
+4660,68,2022-08-25,Sierra Leone,Web Development,2993.08,247.16,87.58,Paid,2833.5,2022-09-07,,False,True,False,False,Review Required
+4668,32,2023-06-08,Anguilla,UI/UX Design,434.34,48.48,11.29,Paid,447.15,2023-06-16,COMPANY A,True,False,False,False,Review Required
+4708,99,2022-10-21,Nepal,E-commerce Development,4822.09,428.11,425.79,Overdue,4819.77,2022-11-10,,False,True,False,False,Review Required
+4711,46,2023-01-13,Nigeria,AI Solution,7919.21,1437.37,729.91,Paid,7211.75,2023-02-05,,False,True,False,False,Review Required
+4714,47,2023-01-25,Korea,E-commerce Development,4361.65,48.77,435.92,Paid,4798.8,2023-02-13,COMPANY B,True,False,False,False,Review Required
+4739,23,2022-08-19,Heard Island and McDonald Islands,Mobile App Development,3619.43,269.41,87.69,Pending,3437.71,2022-09-13,,False,True,False,False,Review Required
+4756,62,2023-05-24,Samoa,Web Development,2072.96,54.9,88.87,Overdue,2156.93,2023-06-14,COMPANY B,True,False,False,False,Review Required
+4804,6,2023-02-06,Uganda,Web Development,2316.54,364.48,20.95,Paid,1973.01,2023-02-17,,False,True,False,False,Review Required
+4807,56,2023-04-26,Luxembourg,UI/UX Design,296.43,29.9,24.12,Overdue,340.65,2023-05-23,COMPANY B,True,False,False,False,Review Required
+4814,12,2023-03-18,Slovakia (Slovak Republic),Web Development,1573.83,12.38,19.37,Overdue,1630.82,2023-04-09,COMPANY B,True,False,False,False,Review Required
+4815,54,2022-11-14,Martinique,AI Solution,7275.93,1421.85,366.58,Overdue,6270.66,2022-11-23,COMPANY D,True,False,False,False,Review Required
+4864,81,2022-08-25,Mexico,Web Development,1408.65,116.7,41.62,Pending,1383.57,2022-09-02,COMPANY E,True,False,False,False,Review Required
+4884,94,2023-02-16,South Georgia and the South Sandwich Islands,Web Development,1802.17,341.56,76.16,Overdue,1536.77,2023-03-07,,False,True,False,False,Review Required
+4905,53,2023-06-28,Nicaragua,UI/UX Design,754.74,102.41,11.8,Overdue,664.13,2023-07-05,,False,True,False,False,Review Required
+4954,79,2023-02-17,Eritrea,AI Solution,8625.04,511.51,774.42,Paid,8887.95,2023-03-07,,False,True,False,False,Review Required
+4956,24,2022-10-20,Tanzania,Web Development,2142.9,307.49,55.44,Paid,1890.85,2022-10-27,,False,True,False,False,Review Required
+4977,16,2022-10-29,Korea,IoT Solution,6386.47,977.09,358.41,Paid,5767.79,2022-11-21,,False,True,False,False,Review Required
